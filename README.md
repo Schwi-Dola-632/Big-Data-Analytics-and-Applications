@@ -1,5 +1,5 @@
-# Big-Data-Analytics-and-Applications
-ScopeDrift educational pilot package
+# ScopeDrift
+ScopeDrift educational pilot package - 对话记忆作用域漂移
 Version 2026-10-30
 
 Read the accompanying Chinese Word manual before the real experiment.
